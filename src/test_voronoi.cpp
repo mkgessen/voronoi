@@ -23,7 +23,8 @@ ________________________________________________________________________________
 Some tests for VoronoiThinner
 
  */
-#include <gtest/gtest.h>
+#include <iomanip>
+#include <iostream>
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/imgproc/imgproc.hpp> // for erode
 #include "timer.h"
